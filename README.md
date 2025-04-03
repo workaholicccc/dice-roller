@@ -1,1 +1,1 @@
-# dice-roller
+This is a game where the players will roll the dice and their score will be added according to the numbers they get after rolling.The player's turn will be over if they get "1".Then the next player will roll the dice. The player to whose score will reach the given max value first will win.
